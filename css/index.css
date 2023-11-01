@@ -273,7 +273,7 @@ main .text h3 {
 }
 
 .s4 .card {
-    width: 15vw;
+    width: 20vw;
     height: 33vw;
     border: 2px solid #EC4A95;
     border-radius: 50px 50px 0 0;
@@ -353,7 +353,9 @@ footer .copy {
 
 @media screen and (max-width:450px) {
     
-    
+    header{margin: 1vw 0;}
+
+
     .s4 .card{
         margin: auto;
         
